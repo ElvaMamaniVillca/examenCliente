@@ -1,0 +1,19 @@
+{
+  "name": "cliente",
+  "version": "1.0.0",
+  "description": "examen cliente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElvaMamaniVillca/examenCliente.git"
+  },
+  "author": "elva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElvaMamaniVillca/examenCliente/issues"
+  },
+  "homepage": "https://github.com/ElvaMamaniVillca/examenCliente#readme"
+}
